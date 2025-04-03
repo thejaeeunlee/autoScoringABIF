@@ -2,6 +2,8 @@
 # 1. Finds one word within the participant answer sentence closest to the keyword based on spelling.
 # 2. Checks whether the answer is misspelled and corrects if it is.
 # 3. Computes phoneme-based Levenshtein distance with weighted phonetic similarity
+# 4. If the distance is relatively small (<0.5), compares every phoneme in both keyword and fuzz word
+# 5. Returns a boolean value for each phoneme
 # last edited by Jaeeun Lee 2025/03/21
 from g2p_en import G2p
 from fuzzywuzzy import process #https://pypi.org/project/fuzzywuzzy/

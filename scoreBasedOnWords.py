@@ -2,6 +2,8 @@
 # 1. Finds one word within the participant answer sentence closest to the keyword based on spelling.
 # 2. Checks whether the answer is misspelled and corrects if it is.
 # 3. Computes phoneme-based Levenshtein distance with weighted phonetic similarity
+# 4. If the distance is relatively small (<0.5), checks if it is a minor spelling error (-ed or -s) and corrects it
+# 5. Returns a boolean value of correct/incorrect for each keyword.
 # last edited by Jaeeun Lee 2025/03/12
 from g2p_en import G2p
 from fuzzywuzzy import process #https://pypi.org/project/fuzzywuzzy/
