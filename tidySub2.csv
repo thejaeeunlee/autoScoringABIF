@@ -1,0 +1,782 @@
+idx,resp,keyword,wordNum
+0110,they are only,ARE,1
+0110,they are only,WHOLE,2
+0110,they are only,BABY,3
+0110,they are only,GIN,4
+0111,street,BOTTLE,1
+0111,street,HAD,2
+0111,street,SUPER,3
+0111,street,OATH,4
+0112,they let Mary ,LET,1
+0112,they let Mary ,MARY,2
+0112,they let Mary ,DEN,3
+0113,the heair heard the cat ,HAIR,1
+0113,the heair heard the cat ,HEARD,2
+0113,the heair heard the cat ,CALF,3
+0114,the lions power ,LION,1
+0114,the lions power ,WAS,2
+0114,the lions power ,POWERED,3
+0114,the lions power ,SIX,4
+0114,the lions power ,SILK,5
+0115,the big dragon ,BIG,1
+0115,the big dragon ,DRAGON,2
+0115,the big dragon ,KILLED,3
+0115,the big dragon ,OLD,4
+0115,the big dragon ,LANES,5
+0116,her plans decide,PLANS,1
+0116,her plans decide,DECIDE,2
+0116,her plans decide,RUDE,3
+0116,her plans decide,PIE,4
+0117,the apples ,APPLE,1
+0117,the apples ,REMARK,2
+0117,the apples ,WAS,3
+0117,the apples ,PULLED,4
+0117,the apples ,MUGS,5
+0118,the bears,BEER,1
+0118,the bears,TICKING,2
+0118,the bears,MEANT,3
+0118,the bears,TAKING,4
+0118,the bears,BLUSH,5
+0119,he gave birth to desert ,GAVE,1
+0119,he gave birth to desert ,BIRTH,2
+0119,he gave birth to desert ,DESSERT,3
+0119,he gave birth to desert ,CLOCK,4
+0102,the drinkers took the spoon,LET,1
+0102,the drinkers took the spoon,DRINKERS,2
+0102,the drinkers took the spoon,SPOON,3
+0120,he raised the dog ,RAISED,1
+0120,he raised the dog ,DOG,2
+0120,he raised the dog ,SWORD,3
+0121,the cow,PLOW,1
+0121,the cow,HAS,2
+0121,the cow,WAR,3
+0121,the cow,BRAIDS,4
+0122,he prescribed ,PRESCRIBED,1
+0122,he prescribed ,ARMORED,2
+0122,he prescribed ,TOSSING,3
+0122,he prescribed ,TOOK,4
+0122,he prescribed ,MAP,5
+0123,no,CHEWED,1
+0123,no,CRASH,2
+0124,my scarf made a train ,SCARF,1
+0124,my scarf made a train ,MADE,2
+0124,my scarf made a train ,TRAIN,3
+0124,my scarf made a train ,PET,4
+0125,he wore his,WORE,1
+0125,he wore his,WITS,2
+0103,his son,SON,1
+0103,his son,WAS,2
+0103,his son,INJURED,3
+0103,his son,OX,4
+0104,solemn ,SOLEMN,1
+0104,solemn ,COFFEE,2
+0104,solemn ,WAS,3
+0104,solemn ,MADE,4
+0104,solemn ,STEAM,5
+0105,he has us look,HAS,1
+0105,he has us look,LOOK,2
+0105,he has us look,WAS,3
+0105,he has us look,SCARED,4
+0105,he has us look,COIN,5
+0106,the dog,DOGS,1
+0106,the dog,STIR,2
+0106,the dog,DRUG,3
+0107,he ,WAS,1
+0107,he ,FOUGHT,2
+0107,he ,HIGHWAY,3
+0107,he ,LAP,4
+0108,he cow tracked ,COW,1
+0108,he cow tracked ,TRACKED,2
+0108,he cow tracked ,BONE,3
+0109,the witnesses ,WITNESSES,1
+0109,the witnesses ,HOLD,2
+0109,the witnesses ,SHINY,3
+0109,the witnesses ,TANKS,4
+0101,his doctor drank ,DOCTOR,1
+0101,his doctor drank ,DRANK,2
+0101,his doctor drank ,LOST,3
+0101,his doctor drank ,RISK,4
+0610,the widows looked black,WIDOWS,1
+0610,the widows looked black,BLOODHOUND,2
+0610,the widows looked black,BURNED,3
+0610,the widows looked black,WAX,4
+0611,he melted ,MELTED,1
+0611,he melted ,WOODEN,2
+0611,he melted ,DART,3
+0612,the coins turned into peas,COIN,1
+0612,the coins turned into peas,SWALLOWED,2
+0612,the coins turned into peas,TERMITE,3
+0612,the coins turned into peas,POISONED,4
+0612,the coins turned into peas,BEADS,5
+0613,the bread ,BREAD,1
+0613,the bread ,CAN,2
+0613,the bread ,BE,3
+0613,the bread ,FANS,4
+0614,the ,FOOTBALL,1
+0614,the ,LOST,2
+0614,the ,DANGEROUS,3
+0614,the ,CRATES,4
+0615,the doctor escaped ,DOCTOR,1
+0615,the doctor escaped ,ESCAPED,2
+0615,the doctor escaped ,LOW,3
+0615,the doctor escaped ,FLAME,4
+0616,we fished at the lake at high tide ,FISHED,1
+0616,we fished at the lake at high tide ,FLAME,2
+0616,we fished at the lake at high tide ,LOCAL,3
+0616,we fished at the lake at high tide ,TIDE,4
+0617,we charged,CHARGED,1
+0617,we charged,SICK,2
+0617,we charged,BAR,3
+0618,the checkers ,CHECKERS,1
+0618,the checkers ,PLANT,2
+0618,the checkers ,ANT,3
+0619,the sleeve you saw was pink,SLEEPY,1
+0619,the sleeve you saw was pink,SOBS,2
+0619,the sleeve you saw was pink,PLAY,3
+0619,the sleeve you saw was pink,PILL,4
+0602,the child had bright,CHILD,1
+0602,the child had bright,HAD,2
+0602,the child had bright,BRIGHT,3
+0602,the child had bright,FEE,4
+0620,the gambler,GAMBLER,1
+0620,the gambler,GOT,2
+0620,the gambler,DRUNK,3
+0620,the gambler,LOOT,4
+0621,the child,FOLLOWED,1
+0621,the child,CHILD,2
+0621,the child,DUST,3
+0622,the beach ,BEACH,1
+0622,the beach ,WAS,2
+0622,the beach ,MOBBED,3
+0622,the beach ,TRAIL,4
+0623,on the fence ,FENCE,1
+0623,on the fence ,HATED,2
+0623,on the fence ,SAND,3
+0624,they plagued ,PLAY,1
+0624,they plagued ,GET,2
+0624,they plagued ,RUG,3
+0625,two hooks of metal,RUTH,1
+0625,two hooks of metal,LOOKS,2
+0625,two hooks of metal,BABBLING,3
+0625,two hooks of metal,SPORT,4
+0603,the fruit,FRUITS,1
+0603,the fruit,VACUUM,2
+0603,the fruit,BET,3
+0604,she was shipped ,WAS,1
+0604,she was shipped ,SHIPPED,2
+0604,she was shipped ,BURGLAR,3
+0604,she was shipped ,TOOK,4
+0604,she was shipped ,SLICE,5
+0605,the glass speech,GLASS,1
+0605,the glass speech,BEACH,2
+0605,the glass speech,RODE,3
+0605,the glass speech,NAP,4
+0606,style ,CLOUD,1
+0606,style ,CUT,2
+0606,style ,HEDGE,3
+0607,he expressed ,EXPRESSED,1
+0607,he expressed ,CANDLE,2
+0607,he expressed ,SLOT,3
+0608,he was hit ,WAS,1
+0608,he was hit ,HIT,2
+0608,he was hit ,CANDLE,3
+0608,he was hit ,BROOK,4
+0609,the high singers ,HIGH,1
+0609,the high singers ,SINGER,2
+0609,the high singers ,SWAM,3
+0609,the high singers ,GRIEF,4
+0601,drop necklace ,DROP,1
+0601,drop necklace ,NECKLACE,2
+0601,drop necklace ,IS,3
+0601,drop necklace ,FUN,4
+0510,the house is sitting in a cave,HOUSE,1
+0510,the house is sitting in a cave,IS,2
+0510,the house is sitting in a cave,SITTING,3
+0510,the house is sitting in a cave,CAVE,4
+0511,ribs,FIREMAN,1
+0511,ribs,WENT,2
+0511,ribs,MOTHER,3
+0511,ribs,RIB,4
+0512,the watch calls,WATCH,1
+0512,the watch calls,CAUSED,2
+0512,the watch calls,COAST,3
+0513,the rain is sitting on the branch ,RAIN,1
+0513,the rain is sitting on the branch ,IS,2
+0513,the rain is sitting on the branch ,SITTING,3
+0513,the rain is sitting on the branch ,BENCH,4
+0514,she was a ,WAS,1
+0514,she was a ,MOUSE,2
+0514,she was a ,COAT,3
+0514,she was a ,ROAST,4
+0515,he,FUR,1
+0515,he,BOY,2
+0515,he,WAS,3
+0515,he,MADE,4
+0515,he,FLOOD,5
+0516,the bob,BOB,1
+0516,the bob,RAISED,2
+0516,the bob,POOL,3
+0517,he built ,BUILT,1
+0517,he built ,WAS,2
+0517,he built ,MADE,3
+0517,he built ,ADAMS,4
+0517,he built ,GANG,5
+0518,the paper is getting ,PAPER,1
+0518,the paper is getting ,IS,2
+0518,the paper is getting ,GETTING,3
+0518,the paper is getting ,THIEF,4
+0519,the boat escaped the judge ,BOAT,1
+0519,the boat escaped the judge ,ESCAPED,2
+0519,the boat escaped the judge ,JUDGE,3
+0519,the boat escaped the judge ,WRIST,4
+0502,he was by his sink,WAS,1
+0502,he was by his sink,ROBBED,2
+0502,he was by his sink,SINK,3
+0502,he was by his sink,WORE,4
+0502,he was by his sink,SHED,5
+0520,the heavy airplane had a spot ,HEAVY,1
+0520,the heavy airplane had a spot ,AIRPLANE,2
+0520,the heavy airplane had a spot ,SAILED,3
+0520,the heavy airplane had a spot ,SPY,4
+0521,the man led his heard,ANN,1
+0521,the man led his heard,LET,2
+0521,the man led his heard,HERD,3
+0522,the cats ,CHICKS,1
+0522,the cats ,STORE,2
+0522,the cats ,MEAT,3
+0522,the cats ,CLERK,4
+0523,the land,LANDLORD,1
+0523,the land,TOOK,2
+0523,the land,SHELTER,3
+0523,the land,APE,4
+0524,the chimpanzee,CHIMPANZEE,1
+0524,the chimpanzee,ROUNDED,2
+0524,the chimpanzee,UP,3
+0524,the chimpanzee,JAIL,4
+0525,the agent,AGENT,1
+0525,the agent,FOLLOWED,2
+0525,the agent,RENT,3
+0503,the rANCHER,RANCHERS,1
+0503,the rANCHER,WERE,2
+0503,the rANCHER,HELD,3
+0503,the rANCHER,TRAP,4
+0504,the bank,BANK,1
+0504,the bank,WAS,2
+0504,the bank,CAUGHT,3
+0504,the bank,DIVE,4
+0505,the pieces like her tint screen,PIECES,1
+0505,the pieces like her tint screen,LIGHT,2
+0505,the pieces like her tint screen,DARK,3
+0505,the pieces like her tint screen,SCREAM,4
+0506,he cuts with ease,CUT,1
+0506,he cuts with ease,EVE,2
+0506,he cuts with ease,SPONGE,3
+0507,the,SWIMMER,1
+0507,the,WORKS,2
+0507,the,CLIP,3
+0508,the woods frightened him ,WOODS,1
+0508,the woods frightened him ,INVITE,2
+0508,the woods frightened him ,FRIGHTENED,3
+0508,the woods frightened him ,HEN,4
+0509,the whole bandits,WHOLE,1
+0509,the whole bandits,BANDITS,2
+0509,the whole bandits,WIPED,3
+0509,the whole bandits,MINK,4
+0501,he held secret ,DOVE,1
+0501,he held secret ,SECRETLY,2
+0501,he held secret ,HEARD,3
+0501,he held secret ,LAMP,4
+0210,interested,FINE,1
+0210,interested,SHIRT,2
+0210,interested,WAS,3
+0210,interested,HEAPED,4
+0210,interested,LUNGS,5
+0211,the hand followed,HANDS,1
+0211,the hand followed,FOLLOW,2
+0211,the hand followed,FOAM,3
+0212,the hand ,CAPTAINS,1
+0212,the hand ,UNLOCK,2
+0212,the hand ,NOZZLE,3
+0212,the hand ,DRAIN,4
+0213,her hand ,HANDS,1
+0213,her hand ,TURN,2
+0213,her hand ,CIGARETTE,3
+0213,her hand ,MIST,4
+0214,the steep doors,STEEP,1
+0214,the steep doors,DOOR,2
+0214,the steep doors,SUMMONED,3
+0214,the steep doors,HOUSEHOLD,4
+0214,the steep doors,SLEEVES,5
+0215,he stood,STOOD,1
+0215,he stood,WATER,2
+0215,he stood,SKIRT,3
+0216,N/A,BABY,1
+0216,N/A,TOOK,2
+0216,N/A,HOST,3
+0217,JESUS,SPORT,1
+0217,JESUS,BOBS,2
+0217,JESUS,WERE,3
+0217,JESUS,WELCOMED,4
+0217,JESUS,CREW,5
+0218,n/a,PAUL,1
+0218,n/a,DROVE,2
+0218,n/a,HEAVY,3
+0218,n/a,TOLL,4
+0219,silly driver,SAND,1
+0219,silly driver,WAS,2
+0219,silly driver,OPENED,3
+0219,silly driver,WARNING,4
+0219,silly driver,CLIFF,5
+0202,the ,NATIVES,1
+0202,the ,SHORTENED,2
+0202,the ,SHIPS,3
+0202,the ,GROWL,4
+0220,professor,ROADS,1
+0220,professor,WIPE,2
+0220,professor,CROOK,3
+0221,noResp,WATER,1
+0221,noResp,HIT,2
+0221,noResp,CRACK,3
+0222,chilld,CAR,1
+0222,chilld,WAS,2
+0222,chilld,PILE,3
+0223,the,WOODEN,1
+0223,the,RUTH,2
+0223,the,FILLED,3
+0223,the,VAN,4
+0224,the guests left,SLEPT,1
+0224,the guests left,GUESTS,2
+0224,the guests left,BEND,3
+0225,the,HEM,1
+0225,the,SPRAYS,2
+0225,the,HAY,3
+0203,shoulde,BANQUET,1
+0203,shoulde,BALED,2
+0203,shoulde,SHORT,3
+0203,shoulde,HUT,4
+0204,the nice dinner,GAVE,1
+0204,the nice dinner,FARMER,2
+0204,the nice dinner,ARE,3
+0204,the nice dinner,MOVED,4
+0204,the nice dinner,KNOB,5
+0205,the glass,HAS,1
+0205,the glass,WEDDING,2
+0205,the glass,POLICEMEN,3
+0205,the glass,RAG,4
+0206,the grease,GREASY,1
+0206,the grease,WATCHDOG,2
+0206,the grease,BUILT,3
+0206,the grease,FEAST,4
+0207,disappeared,GOODS,1
+0207,disappeared,SWAM,2
+0207,disappeared,DOOR,3
+0207,disappeared,SPLASH,4
+0208,the toy forrest,SMOKE,1
+0208,the toy forrest,POURED,2
+0208,the toy forrest,POND,3
+0209,the pop music was produced ,FLOOD,1
+0209,the pop music was produced ,WAS,2
+0209,the pop music was produced ,FILLED,3
+0209,the pop music was produced ,DUCKS,4
+0209,the pop music was produced ,HIPS,5
+0201,was proud,CUSHION,1
+0201,was proud,CAPTURED,2
+0201,was proud,CRIB,3
+0310,the soups hidden ,SOUPS,1
+0310,the soups hidden ,KILL,2
+0310,the soups hidden ,TWELVE,3
+0310,the soups hidden ,INCH,4
+0310,the soups hidden ,SEEDS,5
+0311,the bird,WAS,1
+0311,the bird,SERVED,2
+0311,the bird,BIRD,3
+0311,the bird,HAD,4
+0311,the bird,BUGS,5
+0312,the ball is white ,GIRLS,1
+0312,the ball is white ,WIPE,2
+0312,the ball is white ,DROWNING,3
+0312,the ball is white ,TACK,4
+0313,her football ,FOOTBALL,1
+0313,her football ,HAS,2
+0313,her football ,DECK,3
+0314,he broke the ancient ,BROKE,1
+0314,he broke the ancient ,CLENCHED,2
+0314,he broke the ancient ,TEACHER,3
+0314,he broke the ancient ,ROPE,4
+0315,the bike ,BICYCLES,1
+0315,the bike ,BUY,2
+0315,the bike ,FURNITURE,3
+0315,the bike ,KICK,4
+0316,the chips killed the first lands,CHIPS,1
+0316,the chips killed the first lands,KILL,2
+0316,the chips killed the first lands,FIRST,3
+0316,the chips killed the first lands,MAST,4
+0317,the bugs brought,BUGS,1
+0317,the bugs brought,SWABBED,2
+0317,the bugs brought,LONG,3
+0317,the bugs brought,BEEF,4
+0318,the tv swept the stage,TV,1
+0318,the tv swept the stage,SWEPT,2
+0318,the tv swept the stage,SPRAY,3
+0318,the tv swept the stage,RIM,4
+0319,her cons,PONDS,1
+0319,her cons,HAVE,2
+0319,her cons,TWO,3
+0319,her cons,ASH,4
+0302,lonely,LONELY,1
+0302,lonely,HAS,2
+0302,lonely,SAT,3
+0302,lonely,SEARCHED,4
+0302,lonely,DIME,5
+0320,the sailor ,SAILOR,1
+0320,the sailor ,CARVED,2
+0320,the sailor ,BOWL,3
+0321,the broken feet,CROAKING,1
+0321,the broken feet,FEET,2
+0321,the broken feet,CAN,3
+0321,the broken feet,MATE,4
+0322,the ,GAVE,1
+0322,the ,ACCIDENT,2
+0322,the ,MAT,3
+0323,the ,MAN,1
+0323,the ,GAVE,2
+0323,the ,MUCH,3
+0323,the ,FROGS,4
+0324,he was mean,WAS,1
+0324,he was mean,GOLDEN,2
+0324,he was mean,FIST,3
+0325,district ,MR,1
+0325,district ,BROWN,2
+0325,district ,HAD,3
+0325,district ,FOOLISH,4
+0325,district ,WHEELS,5
+0303,please come to the n,WAS,1
+0303,please come to the n,FULL,2
+0303,please come to the n,CIGARETTE,3
+0303,please come to the n,TRUCK,4
+0304,the,GLASS,1
+0304,the,WORE,2
+0304,the,LOTS,3
+0304,the,SCREEN,4
+0305,the watermelon,WATERMELONS,1
+0305,the watermelon,HIT,2
+0305,the watermelon,SCARE,3
+0306,the ,FLOOR,1
+0306,the ,SHIPPED,2
+0306,the ,SAILBOATS,3
+0306,the ,CROWN,4
+0307,the nurses used,NURSES,1
+0307,the nurses used,USE,2
+0307,the nurses used,KING,3
+0307,the nurses used,BROOM,4
+0308,the boys face,BOY,1
+0308,the boys face,FACED,2
+0308,the boys face,ROAST,3
+0308,the boys face,AID,4
+0309,she tossed him a sharp,TOSSED,1
+0309,she tossed him a sharp,SHARP,2
+0309,she tossed him a sharp,GRIN,3
+0301,she ,GAVE,1
+0301,she ,STORM,2
+0301,she ,SPRAY,3
+0710,he ,WERE,1
+0710,he ,HELD,2
+0710,he ,PAUL,3
+0710,he ,IS,4
+0710,he ,LID,5
+0711,is he off my much,IS,1
+0711,is he off my much,BOTTLE,2
+0711,is he off my much,NOTCH,3
+0712,tge ,WOODS,1
+0712,tge ,HOLD,2
+0712,tge ,JAR,3
+0713,the bagel was cheaper,BACON,1
+0713,the bagel was cheaper,TOOK,2
+0713,the bagel was cheaper,SHIPWRECKED,3
+0713,the bagel was cheaper,AIM,4
+0714,i made a belt,MADE,1
+0714,i made a belt,BELT,2
+0714,i made a belt,JOHNS,3
+0714,i made a belt,FUDGE,4
+0715,along a bench,LONG,1
+0715,along a bench,SOME,2
+0715,along a bench,THREAD,3
+0715,along a bench,ATE,4
+0715,along a bench,CHIP,5
+0716,add cookiers,COOKIES,1
+0716,add cookiers,CAN,2
+0716,add cookiers,CAREFUL,3
+0716,add cookiers,JUICE,4
+0717,our jar ran,JAR,1
+0717,our jar ran,DRANK,2
+0717,our jar ran,FRONT,3
+0717,our jar ran,CUT,4
+0717,our jar ran,MICE,5
+0718,the chocalate bear ,CHOCOLATE,1
+0718,the chocalate bear ,BEAR,2
+0718,the chocalate bear ,HAD,3
+0718,the chocalate bear ,MOLD,4
+0719,played useless,WAS,1
+0719,played useless,PLAYED,2
+0719,played useless,USELESS,3
+0719,played useless,TIGHTEN,4
+0719,played useless,BREATH,5
+0702,the airmail ,AIRMAIL,1
+0702,the airmail ,CUT,2
+0702,the airmail ,THICK,3
+0702,the airmail ,VEST,4
+0720,her nail ,COPS,1
+0720,her nail ,OPEN,2
+0720,her nail ,BUILT,3
+0720,her nail ,SLAVE,4
+0721,direct this to the heads of state ,BREAKFAST,1
+0721,direct this to the heads of state ,TOOK,2
+0721,direct this to the heads of state ,GOOD,3
+0721,direct this to the heads of state ,STAMP,4
+0722,the two the ,TOOTH,1
+0722,the two the ,HAS,2
+0722,the two the ,CORK,3
+0723,she requires the ,REQUIRES,1
+0723,she requires the ,SYRUP,2
+0723,she requires the ,STRIPS,3
+0724,the ,CATCH,1
+0724,the ,SPECIAL,2
+0724,the ,JUNK,3
+0725,thecap,MAPLE,1
+0725,thecap,CATS,2
+0725,thecap,TWIST,3
+0725,thecap,RAFT,4
+0703,he is well-known ,CROOK,1
+0703,he is well-known ,WAS,2
+0703,he is well-known ,WOUND,3
+0703,he is well-known ,BELT,4
+0704,the game,GAME,1
+0704,the game,ENTERED,2
+0704,the game,PANTS,3
+0704,the game,TUB,4
+0705,the apple ,GUILTY,1
+0705,the apple ,CATS,2
+0705,the apple ,WORK,3
+0705,the apple ,SAP,4
+0706,they seal a code of safety ,SEALED,1
+0706,they seal a code of safety ,COAT,2
+0706,they seal a code of safety ,SAILORS,3
+0706,they seal a code of safety ,MOUSE,4
+0707,the ,BOSS,1
+0707,the ,WORE,2
+0707,the ,SPOOL,3
+0708,the bread is ,BREAD,1
+0708,the bread is ,IS,2
+0708,the bread is ,MADE,3
+0708,the bread is ,STALE,4
+0708,the bread is ,PLEA,5
+0709,the marksmen ,MARKSMEN,1
+0709,the marksmen ,KEPT,2
+0709,the marksmen ,BULLETPROOF,3
+0709,the marksmen ,PIECE,4
+0709,the marksmen ,FUR,5
+0701,the ,THROW,1
+0701,the ,OUT,2
+0701,the ,BATH,3
+0701,the ,GRAIN,4
+0410,tennis,CAR,1
+0410,tennis,LEFT,2
+0410,tennis,LION,3
+0410,tennis,TEA,4
+0411,the little trees,WORE,1
+0411,the little trees,SANDAL,2
+0411,the little trees,WHITE,3
+0411,the little trees,GEESE,4
+0412,flags are hot,FLAGS,1
+0412,flags are hot,ARE,2
+0412,flags are hot,COVERED,3
+0412,flags are hot,GAVE,4
+0412,flags are hot,DENT,5
+0413,restuarajt will be a bit colder,XRAYED,1
+0413,restuarajt will be a bit colder,RUTH,2
+0413,restuarajt will be a bit colder,WHOLE,3
+0413,restuarajt will be a bit colder,SHEETS,4
+0414,brown,ZEBRAS,1
+0414,brown,RAISE,2
+0414,brown,COACH,3
+0415,the,ARE,1
+0415,the,TRUNKS,2
+0415,the,ANGRY,3
+0415,the,THROAT,4
+0416,broken cap,WAS,1
+0416,broken cap,MADE,2
+0416,broken cap,ELBOWS,3
+0416,broken cap,CAP,4
+0417,the gift,DOCTOR,1
+0417,the gift,IS,2
+0417,the gift,CALLED,3
+0417,the gift,SORE,4
+0417,the gift,WHEAT,5
+0418,he has many,HAS,1
+0418,he has many,TREE,2
+0418,he has many,COLD,3
+0418,he has many,BREAD,4
+0419,forest,STEAMSHIP,1
+0419,forest,SAW,2
+0419,forest,LOGS,3
+0402,adopt the day,DUCKS,1
+0402,adopt the day,DID,2
+0402,adopt the day,DITCH,3
+0420,the baby,PIG,1
+0420,the baby,SHOULD,2
+0420,the baby,WIN,3
+0420,the baby,WILD,4
+0420,the baby,ROAR,5
+0421,the strap,AIRPLANE,1
+0421,the strap,WAS,2
+0421,the strap,MADE,3
+0421,the strap,WHITE,4
+0421,the strap,STRAP,5
+0422,the grocery ,MADE,1
+0422,the grocery ,BLACK,2
+0422,the grocery ,FIRM,3
+0423,her bread ,BREAD,1
+0423,her bread ,WAS,2
+0423,her bread ,TRAINED,3
+0423,her bread ,SOME,4
+0423,her bread ,PRIZE,5
+0424,the butter had a bomb,BUTTERS,1
+0424,the butter had a bomb,HAVE,2
+0424,the butter had a bomb,GOT,3
+0424,the butter had a bomb,BOMB,4
+0425,two gloves ,FLOCK,1
+0425,two gloves ,POURED,2
+0425,two gloves ,LARGE,3
+0425,two gloves ,CLEAN,4
+0425,two gloves ,STRIPES,5
+0403,the ten ,KNEES,1
+0403,the ten ,SEARCHED,2
+0403,the ten ,BROKEN,3
+0403,the ten ,SWAN,4
+0404,no spice ,BED,1
+0404,no spice ,MEAT,2
+0404,no spice ,ARE,3
+0404,no spice ,DIGGING,4
+0404,no spice ,JOINTS,5
+0405,she has an injury ,HAS,1
+0405,she has an injury ,ENTRY,2
+0405,she has an injury ,POLE,3
+0406,the workers get let go,WORKERS,1
+0406,the workers get let go,GET,2
+0406,the workers get let go,CLUE,3
+0407,hot feathers swam,FEATHER,1
+0407,hot feathers swam,SWAM,2
+0407,hot feathers swam,CRUISE,3
+0408,pushed ,FIRST,1
+0408,pushed ,DETECTIVES,2
+0408,pushed ,SPREAD,3
+0408,pushed ,BARK,4
+0409,the cabin ,CUP,1
+0409,the cabin ,CABIN,2
+0409,the cabin ,IS,3
+0409,the cabin ,EMPLOYED,4
+0409,the cabin ,PORK,5
+0401,the seam dropped ,TEAM,1
+0401,the seam dropped ,DROPPED,2
+0401,the seam dropped ,CHEST,3
+0810,the child stinks,CHILD,1
+0810,the child stinks,STINKS,2
+0810,the child stinks,SECOND,3
+0810,the child stinks,TASK,4
+0811,the boat ,BOATS,1
+0811,the boat ,WERE,2
+0811,the boat ,TRAIN,3
+0811,the boat ,SHEEP,4
+0812,heroes came to ,HEROES,1
+0812,heroes came to ,CAME,2
+0812,heroes came to ,SHEPHERD,3
+0812,heroes came to ,BROW,4
+0813,the load david ,LOUD,1
+0813,the load david ,DAVID,2
+0813,the load david ,FELL,3
+0813,the load david ,DOWN,4
+0813,the load david ,SHOCK,5
+0814,came around ,BAD,1
+0814,came around ,FINGER,2
+0814,came around ,CANNOT,3
+0814,came around ,GUESS,4
+0814,came around ,BRAT,5
+0815,the prickly car,PRICKLY,1
+0815,the prickly car,CAR,2
+0815,the prickly car,RAN,3
+0815,the prickly car,YELL,4
+0816,the dealers choose,DEALERS,1
+0816,the dealers choose,CHEW,2
+0816,the dealers choose,SPOILED,3
+0816,the dealers choose,THORNS,4
+0817,the jobs ,JOB,1
+0817,the jobs ,HAS,2
+0817,the jobs ,CARDS,3
+0818,the round ,ROUND,1
+0818,the round ,FLOCK,2
+0818,the round ,IS,3
+0818,the round ,TRACK,4
+0819,my seats give,SEATS,1
+0819,my seats give,GIVE,2
+0819,my seats give,I,3
+0819,my seats give,GREET,4
+0819,my seats give,GUM,5
+0802,i wash my fish with a knife,WIPED,1
+0802,i wash my fish with a knife,FISH,2
+0802,i wash my fish with a knife,KNIFE,3
+0820,he sailed ,SAILED,1
+0820,he sailed ,JAW,2
+0820,he sailed ,NET,3
+0821,the home was left,ROSEBUSH,1
+0821,the home was left,WENT,2
+0821,the home was left,RAILROADS,3
+0821,the home was left,BLADE,4
+0822,the bride cut,BRIDES,1
+0822,the bride cut,CUT,2
+0822,the bride cut,LUBRICATE,3
+0822,the bride cut,JACKKNIFES,4
+0822,the bride cut,BRUISE,5
+0823,cut the s,CUT,1
+0823,cut the s,ADMIRAL,2
+0823,cut the s,GREASE,3
+0824,she watched the news,WATCHED,1
+0824,she watched the news,NEWS,2
+0824,she watched the news,DROWNING,3
+0824,she watched the news,CHUNKS,4
+0825,that man ,MAN,1
+0825,that man ,ACHES,2
+0825,that man ,SKUNK,3
+0803,let out the meat,LET,1
+0803,let out the meat,OUT,2
+0803,let out the meat,MEAT,3
+0803,let out the meat,SMALL,4
+0803,let out the meat,CHEERS,5
+0804,a white turtle ,WHITE,1
+0804,a white turtle ,TURTLE,2
+0804,a white turtle ,SHUFFLED,3
+0804,a white turtle ,EASY,4
+0804,a white turtle ,PEG,5
+0805,very slow,TOM,1
+0805,very slow,WILL,2
+0805,very slow,NOT,3
+0805,very slow,TAKE,4
+0805,very slow,FLEET,5
+0806,the whole ,HOLE,1
+0806,the whole ,COMMANDS,2
+0806,the whole ,BAD,3
+0806,the whole ,GOWN,4
+0807,i wore her ,WORE,1
+0807,i wore her ,I,2
+0807,i wore her ,CAUGHT,3
+0807,i wore her ,HINT,4
+0808,for her support,SWEAT,1
+0808,for her support,WAS,2
+0808,for her support,SQUARE,3
+0808,for her support,ROW,4
+0809,cut through the bay,ANIMAL,1
+0809,cut through the bay,WAS,2
+0809,cut through the bay,CUT,3
+0809,cut through the bay,BAY,4
+0801,the fly got into its shell,BOB,1
+0801,the fly got into its shell,GOT,2
+0801,the fly got into its shell,SHELL,3
