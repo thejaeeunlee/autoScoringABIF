@@ -2,7 +2,7 @@
 
 Simple transcript scoring method using fuzzywuzzy and other misc.
 
-## scoreBasedOnWords
+## scoreBasedOnWords.py
 From each keyword in the nonsenseSPIN sentence corpus, compare it to the participant's response and return a binary of correct/incorrect.
 #### Procedure
 - Finds one word within the participant answer sentence closest to the keyword based on spelling.
@@ -11,7 +11,7 @@ From each keyword in the nonsenseSPIN sentence corpus, compare it to the partici
 - If the distance is relatively small (<0.5), checks if it is a minor spelling error (-ed or -s) and corrects it.
 - Returns a boolean value of correct/incorrect for each keyword.
 
-## scoreBasedOnPhones
+## scoreBasedOnPhones.py
 From each keyword in the nonsenseSPIN sentence corpus, compare it to the participant's response and return a binary of correct/incorrect of each phoneme in the word.
 #### Procedure
 - Finds one word within the participant answer sentence closest to the keyword based on spelling.
